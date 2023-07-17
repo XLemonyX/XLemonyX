@@ -3,7 +3,7 @@ I'm passionate about Data Analysis, Statistics, and Data Visualisation. This rep
 
 # My Projects:
 
-### 1.Data Analyst Associate certification
+### 1. Data Analyst Associate certification
 Tools: MS Excel, SQL, Google Sheets
 
 Skills: Data Visualisation, Statistics, Data Cleaning and Analysis
