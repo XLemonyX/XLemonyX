@@ -1,6 +1,8 @@
 # Hi! 👨‍🔬
 I'm passionate about Data Analysis, Statistics, and Data Visualisation. This repo holds some of my work that showcases how I go around data analysis and visualisation. If you wish to seek more about me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/natalia-g-12ba74232/).
 
+# My Projects:
+
 ## Data Analyst Associate certification  
 Tools: MS Excel, SQL, Google Sheets
 
