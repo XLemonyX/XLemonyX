@@ -3,7 +3,9 @@ I'm passionate about Data Analysis, Statistics, and Data Visualisation. This rep
 
 ## Data Analyst Associate certification  
 Tools: MS Excel, SQL, Google Sheets
+
 Skills: Data Visualisation, Statistics, Data Cleaning and Analysis
+
 Output: Written analysis
 
 Pet Box Subscription analysis is a descriptive analysis of a pet store, which was done for my Data Analyst Associate certification. This analysis aims to identify pet owners who could purchase stuff every month (food, toys, medical supplies...). The data was cleaned and prepared with MS Excel. Data visualization is done with Google Sheets. 
