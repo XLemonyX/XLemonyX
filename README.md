@@ -12,4 +12,4 @@ Output: Written analysis
 
 Pet Box Subscription analysis is a descriptive analysis of a pet store, which was done for my Data Analyst Associate certification. Goal of this projest was to clean, analyse an visualise data in a clear, understandable way and draw correct conclusions using three different visualisation showing distribution and relationship within data. Data was cleaned and prepared with MS Excel. Data visualization is done with Google Sheets. 
 
-My final submission consisted of a written report for Data Analyst at Data Camp, who reviewed my proposal and reviewed that the analysis meets current industry standards. You can view it [here] (https://github.com/XLemonyX/XLemonyX/blob/main/notebook.ipynb).
+My final submission consisted of a written report for Data Analyst at Data Camp, who reviewed my proposal and reviewed that the analysis meets current industry standards. You can view it [here](https://github.com/XLemonyX/XLemonyX/blob/main/notebook.ipynb).
