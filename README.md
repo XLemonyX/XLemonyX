@@ -24,4 +24,4 @@ Output: Written analysis
 In this project I analize Students' mental health data. Goal of this projest was to explore the students data using PostgreSQL to find out if international students have a higher risk of mental health difficulties than the general population and see if the length of stay is a contributing factor. Analysis was done using SQL and Python which was also used for visualisaton using Pandas and Matplotlib.
 
 
-You can view it [here](https://github.com/XLemonyX/XLemonyX/blob/main/notebook.ipynb).
+You can view it [here](https://github.com/XLemonyX/SMH-Project/blob/main/notebook.ipynb).
